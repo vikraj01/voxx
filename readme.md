@@ -1,0 +1,16 @@
+- Nodemailer
+- Stripe Alternative
+- AWS Image upload
+- CI/CD Pipeline
+- Docker
+- AWS Hosting
+- Integration and Unit Testing
+- Redis Caching
+- Robust CSS
+- AdminJS Integration
+- PDFKIT
+- Using Type Module 
+- Chat Bot
+- Category Section 
+- Parcel / WebPack / React JS ( externally )
+- Use More Javascript# voxx
